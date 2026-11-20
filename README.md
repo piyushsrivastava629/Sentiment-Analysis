@@ -4,9 +4,7 @@ A machine learning project that reads a customer review of a phone and predicts 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 
-https://sentiment-analysis-dkoa46fknf4fcmnk7gzzan.streamlit.app/
-
-### 🔴 Live App: [PASTE_YOUR_APP_LINK_HERE](PASTE_YOUR_APP_LINK_HERE)
+### 🔴 Live App: [https://sentiment-analysis-dkoa46fknf4fcmnk7gzzan.streamlit.app/)
 
 > Note: on Streamlit Cloud's free tier, the app goes to sleep after a few days without visitors. If you see a "wake up" button, click it and wait a minute.
 
